@@ -30,4 +30,5 @@ To run Ziva, ensure you have the following libraries installed:
 You can install these libraries using pip:
 
 ```bash
-pip install tkinter requests 
+pip install -r requirements.txt
+
