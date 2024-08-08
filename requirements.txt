@@ -1,0 +1,8 @@
+tkinter-kit 0.1.1
+pyttsx4 3.0.15
+pytz 2024.1
+PyAudio 0.2.14
+Wikipedia-API 0.6.0
+DateTime 5.5
+pycopy-webbrowser 0.0.0
+pyjokes 0.7.2
